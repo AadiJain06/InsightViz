@@ -3,7 +3,7 @@
 
 InsightViz is a powerful Generative AI-based web application that allows users to upload CSV datasets and query them using natural language. The system interprets these queries with the help of advanced Large Language Models (LLMs) and generates visualizations and analytical insights — all without writing a single line of code.
 
-![InsightViz Screenshot](./images/insightviz_banner.png) <!-- Optional: Add your screenshot -->
+![InsightViz Screenshot](UI 1.jpg) <!-- Optional: Add your screenshot -->
 
 ---
 
@@ -106,7 +106,7 @@ All user-submitted code is executed **within the E2B sandbox**, ensuring a **saf
 
 ## 📷 Sample Output
 
-![Sample Chart](./images/sample_chart.png) <!-- Optional: Replace with your own -->
+![Sample Chart](UI 2.jpg) <!-- Optional: Replace with your own -->
 
 * Upload CSV ➜ Ask question ➜ Receive relevant graphs/statistics
 * Works on numerical, categorical, and mixed datasets
