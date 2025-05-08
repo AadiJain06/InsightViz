@@ -108,7 +108,7 @@ All user-submitted code is executed **within the E2B sandbox**, ensuring a **saf
 ## 📷 Sample Output
 
 ![InsightViz Output](./UI%202.jpg)
-
+(./AI%20DVA2.jpg)
 <!-- Optional: Replace with your own -->
 
 * Upload CSV ➜ Ask question ➜ Receive relevant graphs/statistics
