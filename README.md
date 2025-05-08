@@ -108,11 +108,12 @@ All user-submitted code is executed **within the E2B sandbox**, ensuring a **saf
 ## 📷 Sample Output
 
 ![InsightViz Output](./UI%202.jpg)
-(./AI%20DVA2.jpg)
+
 <!-- Optional: Replace with your own -->
 
 * Upload CSV ➜ Ask question ➜ Receive relevant graphs/statistics
   ![InsightViz Output2](./csv.jpg)
+  ![InsightViz Output3](./AI%20DVA2.jpg)
 * Works on numerical, categorical, and mixed datasets
   ![InsightViz Output2](./UI%203.jpg.png)
 
